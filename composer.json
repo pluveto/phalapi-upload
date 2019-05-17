@@ -14,5 +14,7 @@
             "PhalApi\\Upload\\": "src"
         }
     },
-    "require": {}
+    "require": {
+        "qcloud/cos-sdk-v5": ">=1.0"
+    }
 }
