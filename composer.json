@@ -1,0 +1,18 @@
+{
+    "name": "phalapi/upload",
+    "description": "PhalApi 2.x 扩展类库：文件上传工具",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "pluveto",
+        "email": "i@pluvet.com",
+        "homepage": "https://www.pluvet.com",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "PhalApi\\Upload\\": "src"
+        }
+    },
+    "require": {}
+}
